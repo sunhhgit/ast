@@ -5,6 +5,7 @@
       "proposal": "hack",
       "topicToken": "^^"
     }],
+    ["./auto-try-catch-plugin"],
     ["./uid-plugin-demo"]
   ]
 }
